@@ -1,0 +1,17 @@
+{
+  "name": "soul-rp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M4x",
+  "license": "ISC",
+  "dependencies": {
+    "discord-emoji": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "fortnitetracker-7days-stats": "^3.1.1",
+    "ms": "^2.1.1"
+  }
+}
